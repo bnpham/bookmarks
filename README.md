@@ -3,6 +3,8 @@ CSS Cursors Behavior, Value, and Code: http://www.echoecho.com/csscursors.htm
 
 XHTML and CSS Tutorial 17-RGB Color and Line Spacing: https://www.youtube.com/watch?v=ZzyFj4BItFc
 
+XHTML and CSS Tutorial 20-Background Images: https://www.youtube.com/watch?v=jWn1nWIFbV0
+
 What the heck is SEO: http://pointblankseo.com/what-is-seo/
 
 3 steps to successful digital enablement: http://venturebeat.com/2015/10/28/the-3-steps-to-successful-digital-enablement/
